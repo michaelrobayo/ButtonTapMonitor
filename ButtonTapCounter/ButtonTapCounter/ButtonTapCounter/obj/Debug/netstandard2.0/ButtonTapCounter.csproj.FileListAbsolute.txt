@@ -1,0 +1,12 @@
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\bin\Debug\netstandard2.0\ButtonTapCounter.deps.json
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\bin\Debug\netstandard2.0\ButtonTapCounter.dll
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\bin\Debug\netstandard2.0\ButtonTapCounter.pdb
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\ButtonTapCounter.csprojAssemblyReference.cache
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\ButtonTapCounter.csproj.CoreCompileInputs.cache
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\ButtonTapCounter.AssemblyInfoInputs.cache
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\ButtonTapCounter.AssemblyInfo.cs
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\XamlC.stamp
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\ButtonTapCounter.dll
+E:\src\ButtonTapMonitor\ButtonTapCounter\ButtonTapCounter\ButtonTapCounter\obj\Debug\netstandard2.0\ButtonTapCounter.pdb
